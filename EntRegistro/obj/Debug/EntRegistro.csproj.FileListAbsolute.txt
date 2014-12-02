@@ -1,0 +1,4 @@
+C:\Omar\Visual Studio 2010\RegistroUsuarios\EntRegistro\bin\Debug\EntRegistro.dll
+C:\Omar\Visual Studio 2010\RegistroUsuarios\EntRegistro\bin\Debug\EntRegistro.pdb
+C:\Omar\Visual Studio 2010\RegistroUsuarios\EntRegistro\obj\Debug\EntRegistro.dll
+C:\Omar\Visual Studio 2010\RegistroUsuarios\EntRegistro\obj\Debug\EntRegistro.pdb
