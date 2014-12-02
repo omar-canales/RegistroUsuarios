@@ -1,7 +1,0 @@
-C:\Omar\Visual Studio 2010\RegistroUsuarios\DatRegistro\bin\Debug\DatRegistro.dll
-C:\Omar\Visual Studio 2010\RegistroUsuarios\DatRegistro\bin\Debug\DatRegistro.pdb
-C:\Omar\Visual Studio 2010\RegistroUsuarios\DatRegistro\obj\Debug\DatRegistro.dll
-C:\Omar\Visual Studio 2010\RegistroUsuarios\DatRegistro\obj\Debug\DatRegistro.pdb
-C:\Omar\Visual Studio 2010\RegistroUsuarios\DatRegistro\bin\Debug\UtiRegistro.dll
-C:\Omar\Visual Studio 2010\RegistroUsuarios\DatRegistro\bin\Debug\UtiRegistro.pdb
-C:\Omar\Visual Studio 2010\RegistroUsuarios\DatRegistro\obj\Debug\DatRegistro.csprojResolveAssemblyReference.cache
