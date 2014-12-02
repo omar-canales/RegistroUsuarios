@@ -1,0 +1,11 @@
+C:\Omar\Visual Studio 2010\RegistroUsuarios\BusRegistro\bin\Debug\BusRegistro.dll
+C:\Omar\Visual Studio 2010\RegistroUsuarios\BusRegistro\bin\Debug\BusRegistro.pdb
+C:\Omar\Visual Studio 2010\RegistroUsuarios\BusRegistro\obj\Debug\BusRegistro.dll
+C:\Omar\Visual Studio 2010\RegistroUsuarios\BusRegistro\obj\Debug\BusRegistro.pdb
+C:\Omar\Visual Studio 2010\RegistroUsuarios\BusRegistro\bin\Debug\DatRegistro.dll
+C:\Omar\Visual Studio 2010\RegistroUsuarios\BusRegistro\bin\Debug\EntRegistro.dll
+C:\Omar\Visual Studio 2010\RegistroUsuarios\BusRegistro\bin\Debug\DatRegistro.pdb
+C:\Omar\Visual Studio 2010\RegistroUsuarios\BusRegistro\bin\Debug\EntRegistro.pdb
+C:\Omar\Visual Studio 2010\RegistroUsuarios\BusRegistro\obj\Debug\BusRegistro.csprojResolveAssemblyReference.cache
+C:\Omar\Visual Studio 2010\RegistroUsuarios\BusRegistro\bin\Debug\UtiRegistro.dll
+C:\Omar\Visual Studio 2010\RegistroUsuarios\BusRegistro\bin\Debug\UtiRegistro.pdb

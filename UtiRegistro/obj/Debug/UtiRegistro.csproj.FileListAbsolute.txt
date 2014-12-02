@@ -1,0 +1,4 @@
+C:\Omar\Visual Studio 2010\RegistroUsuarios\UtiRegistro\bin\Debug\UtiRegistro.dll
+C:\Omar\Visual Studio 2010\RegistroUsuarios\UtiRegistro\bin\Debug\UtiRegistro.pdb
+C:\Omar\Visual Studio 2010\RegistroUsuarios\UtiRegistro\obj\Debug\UtiRegistro.dll
+C:\Omar\Visual Studio 2010\RegistroUsuarios\UtiRegistro\obj\Debug\UtiRegistro.pdb
